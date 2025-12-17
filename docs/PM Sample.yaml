@@ -160,7 +160,7 @@ Paper Mario:
     random_pitch: False                     # Other options: True
     mute_danger_beeps: True                 # Other options: False
 
-    death_link: False                       # NYI
+    death_link: True                      # NYI
 description: Sample Paper Mario AP World YAML
 game: Paper Mario
-name: JKB
+name: redi
